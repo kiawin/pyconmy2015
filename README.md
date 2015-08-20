@@ -15,3 +15,31 @@ Hi all, you've signed up for workshop and here's the estimates of our exploratio
 - If you wish to run the code examples yourself, you will need a Linux system or a Linux VM running on top of your Windows or Mac OS X system. For details, I will update this README in this week before Thursday, 20 August 2015.
 
 Hope to see you and let's get excited with our journey to the galaxy of Python.
+
+## Setup
+
+1. Clone the repository in your computer
+
+```
+git clone git@github.com:kiawin/pyconmy2015.git
+
+```
+
+2. We will be using a VM (virtual machine) to write unit tests
+
+```
+cd pyconmy2015
+vagrant up
+vagrant ssh
+
+```
+
+3. Within the VM, you may access the cloned materials in /vagrant
+
+```
+cd /vagrant
+
+```
+
+
+
