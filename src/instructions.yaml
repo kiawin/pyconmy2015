@@ -1,0 +1,19 @@
+ali:
+    - initial: 1
+    - add:
+        - 2
+        - 3
+    - sub: 1
+ahhuat:
+    - initial: 5
+    - mul: 10
+    - sub: 20
+    - add:
+        - 1
+        - 2
+mutu:
+    - initial: 0
+    - div: 3
+paul:
+    - initial: 5
+    - div: 0
