@@ -41,5 +41,11 @@ cd /vagrant
 
 ```
 
+## Slides
 
+The presentation slides are stored in the repo - slides.pdf
+
+Thank you for attending the workshop and update me if you need any further assistance
+
+Have fun with Python!
 
